@@ -1,0 +1,1 @@
+java -jar yuicompressor-2.4.8.jar js/bootstrap-datetimepicker.js > js/bootstrap-datetimepicker.min.js
